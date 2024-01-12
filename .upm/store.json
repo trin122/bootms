@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"60eddfb774379f0c38072f41f449ca91","lockfileHash":"e12df4f898eeb387f83b85c184359ea0","guessedImports":["axios","semver","vtuanhihi","sequelize","express","moment-timezone","fs-extra"],"guessedImportsHash":"df866a6c397e41f97b4879a8b6911dfb"}}}
